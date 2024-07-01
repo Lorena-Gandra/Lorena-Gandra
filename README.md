@@ -7,6 +7,8 @@
 🎓 **Formação:** Cursando Ads
 💼 **Profissão:** Suporte técnico
 
+gif = '<img src="https://photos.app.goo.gl/39eG17oUksY8KU1s8/>'
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
