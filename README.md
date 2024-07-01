@@ -1,13 +1,17 @@
+![download20240701170826-ANIMATION](https://github.com/Lorena-Gandra/Lorena-Gandra/assets/122059597/0e04955d-881b-4ccf-900e-e6e4ff94c7ba)
 # Olá Pessoal! 👋
 
-![banner](https://via.placeholder.com/1000x300/87CEEB/000000?text=Bem-vindo+ao+meu+perfil+GitHub)
+
+
+<img src="download20240701170826-ANIMATION.gif" alt="GIF Animado" width="90"/>
+
 
 ## Sobre mim
 
 🎓 **Formação:** Cursando Ads
 💼 **Profissão:** Suporte técnico
 
-![Avatar](![Descrição do GIF](caminho/para/o/seu/GIF/download20240701170826-ANIMATION.gif)/download20240701170826-ANIMATION.gif)
+
 
 ---
 
