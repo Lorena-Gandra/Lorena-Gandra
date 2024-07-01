@@ -7,7 +7,7 @@
 🎓 **Formação:** Cursando Ads
 💼 **Profissão:** Suporte técnico
 
-gif = '<img src="https://photos.app.goo.gl/39eG17oUksY8KU1s8/>'
+<img aling="right" alt="gif-lorena" src="Downloads/download20240701170826-ANIMATION.gif ">
 
 ---
 
