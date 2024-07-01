@@ -1,12 +1,12 @@
-![download20240701170826-ANIMATION](https://github.com/Lorena-Gandra/Lorena-Gandra/assets/122059597/0e04955d-881b-4ccf-900e-e6e4ff94c7ba)
-# Olá Pessoal! 👋
+
+# Olá Pessoal! Bem Vindos Ao meu Perfil 👋
 
 
-
-<img src="download20240701170826-ANIMATION.gif" alt="GIF Animado" width="90"/>
-
+![download20240701170826-ANIMATION-ezgif com-resize](https://github.com/Lorena-Gandra/Lorena-Gandra/assets/122059597/90c5bb7f-f2c2-472b-afc1-b8476333c9e3)
 
 ## Sobre mim
+
+
 
 🎓 **Formação:** Cursando Ads
 💼 **Profissão:** Suporte técnico
@@ -27,8 +27,8 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lorena-Gandra&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena-Gandra&layout=compact&theme=radical)
 
 ---
 
