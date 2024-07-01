@@ -7,7 +7,7 @@
 🎓 **Formação:** Cursando Ads
 💼 **Profissão:** Suporte técnico
 
-<img aling="right" alt="gif-lorena" src="Downloads/download20240701170826-ANIMATION.gif ">
+![Avatar](![Descrição do GIF](caminho/para/o/seu/GIF/download20240701170826-ANIMATION.gif)/download20240701170826-ANIMATION.gif)
 
 ---
 
