@@ -34,8 +34,8 @@
 
 ## 🌱 Projetos Recentes
 
-- [Projeto 1](https://github.com/Lorena-Gandra/jogosSuperScrum.git) - Descrição do projeto 1
-- [Projeto 2](https://github.com/seuusuario/projeto2) - Descrição do projeto 2
+- [Projeto 1](https://github.com/Lorena-Gandra/jogosSuperScrum.git) - jogosSuperScrum
+
 
 ---
 
