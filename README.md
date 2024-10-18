@@ -36,6 +36,7 @@
 ## 🌱 Projetos Recentes
 
 - [Projeto 1](https://github.com/Lorena-Gandra/jogosSuperScrum.git) - jogosSuperScrum
+- [Projeto 2](https://github.com/Lorena-Gandra/Barber-Show.git) - Barber Show
 
 
 ---
